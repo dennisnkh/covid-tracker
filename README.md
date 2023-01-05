@@ -1,4 +1,4 @@
-# CPSC2350 Group 2 Project
+# Covid Tracker
 
 ## Overview
 - To create a website for travellers by finding the weather of a city and the covid situation of that country
